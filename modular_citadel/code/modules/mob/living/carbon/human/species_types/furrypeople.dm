@@ -220,7 +220,7 @@
 	punchstunthreshold = 15
 	siemens_coeff = -2
 	say_mod = "hisses"
-	mutant_heart = /obj/item/organ/heart/slime
+	mutant_heart = /obj/item/organ/heart/xx
 	mutantlungs = /obj/item/organ/lungs/slime
 	mutantliver = /obj/item/organ/liver/plasmaman
 	mutantstomach = /obj/item/organ/stomach/plasmaman
