@@ -156,7 +156,7 @@
 
 /obj/item/organ/eyes/xx
 	name = "Xenomorphic Eyes"
-	desc = "Ew its having an pulsating goo."
+	desc = "Eww, It has pulsating goo."
 	eye_color = "000"
 	see_in_dark = 4
 	flash_protect = -1

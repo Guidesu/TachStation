@@ -120,7 +120,7 @@
 
 /obj/item/organ/ears/xx
 	name = "purple ears"
-	desc = "an strange set of ears"
+	desc = "an strange set of ears."
 	icon_state = "hivenode"
 	damage_multiplier = 2.0
 	bang_protect = -1

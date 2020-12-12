@@ -96,7 +96,7 @@
 		failed = TRUE
 
 obj/item/organ/heart/slime
-	name = "Squish heart"
+	name = "Slime heart"
 	desc = "It seems we've gotten to the core of the matter."
 	icon_state = "heart-s-on"
 	icon_base = "heart-s"
@@ -229,9 +229,9 @@ obj/item/organ/heart/cybernetic/upgraded/on_life()
 
 
 /obj/item/organ/heart/xx
-	name = "Xeno heart"
+	name = "Xeno Heart"
 	desc = "an strange pulsating heart."
-	icon_state = "heart-xx"
+	icon_state = "blacktumor"
 	healing_factor = 0.4
 
 

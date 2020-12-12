@@ -95,7 +95,7 @@
 /obj/item/organ/stomach/xx
 	name = "Xeno stomach"
 	icon_state = "stomach-x" //xenomorph liver? It's just a black liver so it fits.
-	desc = "A mutant stomach designed to handle the unique diet of a xenomorph"
+	desc = "A mutant stomach designed to handle the unique diet of a xenomorph."
 	healing_factor = 0.4
 
 /obj/item/organ/stomach/plasmaman

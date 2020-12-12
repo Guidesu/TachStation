@@ -210,7 +210,7 @@
 	// A cloning mistake, crossing human and xenomorph DNA
 	name = "Xeno Hybrid"
 	id = "xeno"
-	brutemod = 2
+	brutemod = 3
 	burnmod = 3.5
 	coldmod = -0.5
 	speedmod = -0.25
@@ -232,8 +232,8 @@
 	default_color = "00FF00"
 	icon_limbs = DEFAULT_BODYPART_ICON_CITADEL
 	species_traits = list(MUTCOLORS,EYECOLOR,LIPS,WINGCOLOR)
-	inherent_biotypes = list(MOB_INORGANIC , MOB_HUMANOID)
-	inherent_traits = list(TRAIT_RESISTLOWPRESSURE,TRAIT_RADIMMUNE,TRAIT_RESISTCOLD,TRAIT_THERMAL_VISION)
+	inherent_biotypes = list(MOB_ORGANIC , MOB_HUMANOID)
+	inherent_traits = list(TRAIT_RESISTLOWPRESSURE,TRAIT_RESISTCOLD,TRAIT_THERMAL_VISION)
 	mutant_bodyparts = list("xenotail", "xenohead", "xenodorsal", "mam_body_markings", "taur", "legs", "deco_wings")
 	default_features = list("xenotail"="Xenomorph Tail","xenohead"="Standard","xenodorsal"="Standard", "mam_body_markings" = "Xeno","mcolor" = "0F0","mcolor2" = "0F0","mcolor3" = "0F0","taur" = "None", "legs" = "Digitigrade Legs", "deco_wings" = "None")
 	attack_verb = "slash"
